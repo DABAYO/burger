@@ -11,7 +11,7 @@ function printQuestionMarks(num) {
 
   for (let i = 0; i < num; i++) {
     arr.push("?");
-  }
+  }s
 
   return arr.toString();
 }
